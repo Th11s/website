@@ -1,9 +1,5 @@
 <svg version="1.1" width="100%" height="100%" viewBox="0 0 52 60" xmlns="http://www.w3.org/2000/svg">
   <defs>
-
-
-    <polygon id="tri" points="30 0, 60 0, 45 26" fill="midnightblue" />
-
     <!--
       topleft (0 15.0), 
       top (25.98 0), 
@@ -35,11 +31,13 @@
   </g>
 
   <g fill="white" font-size="19" font-family="Vollkorn">
-    <!-- <text x="25.98" y="34.5" text-anchor="middle">
-      <tspan>Th||s</tspan>
-    </text> -->
+    <!--
+      <text x="25.98" y="34.5" text-anchor="middle">
+        <tspan>Th||s</tspan>
+      </text>
+    -->
 
-    <g aria-label="Th11s">
+    <g aria-label="Th11s" transform="translate(0, 1.75)">
       <use href="#char-t" />
       <use href="#char-h" />
       <use href="#char-pipe" />
