@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  deploy:
+  hugo-build:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,11 +21,8 @@ jobs:
       - name: Run Hugo build
         run: hugo --minify
 
-      - name: Zip public page 
-        run: zip page.zip ./public/* -r
-
       - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: hugo-page
-          path: page.zip
+          path: ./public/*
