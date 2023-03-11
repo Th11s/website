@@ -22,7 +22,7 @@ jobs:
         run: hugo --minify
 
       - name: Zip public page 
-        run: zip page.zip ./publish/* -r
+        run: zip page.zip ./public/* -r
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
