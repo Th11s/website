@@ -1,0 +1,31 @@
+name: Hugo Page build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.110.0'
+          extended: true
+
+      - name: Run Hugo build
+        run: hugo --minify
+
+      - name: Zip public page 
+        run: zip page.zip ./publish/* -r
+
+      - name: Upload artifact for deployment job
+        uses: actions/upload-artifact@v2
+        with:
+          name: hugo-page
+          path: page.zip
