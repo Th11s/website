@@ -1,11 +1,26 @@
 <!DOCTYPE html>
 <html>
-    {{- partial "head.html" . -}}
-    <body>
-        {{- partial "header.html" . -}}
-        <div id="content">
+{{- partial "head.html" . -}}
+
+<body>
+    <div class="container my-4 shadow rounded">
+        <div class="row p-4 align-items-center">
+            <div class="col">
+                <hr /><hr /><hr /><hr />
+            </div>
+            <img class="col col-auto" src="/assets/Th11s.svg" style="height: 150px;" alt="Th11s Logo" title="ThomasOttenhus => Th_(11 letters)_s => Th11s => Th||s" />
+            <div class="col">
+                <hr /><hr /><hr /><hr />
+            </div>
+        </div>
+    </div>
+    {{- partial "header.html" . -}}
+    <div id="content">
+        <div class="container my-4 shadow rounded">
         {{- block "main" . }}{{- end }}
         </div>
-        {{- partial "footer.html" . -}}
-    </body>
+    </div>
+    {{- partial "footer.html" . -}}
+</body>
+
 </html>

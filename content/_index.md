@@ -1,5 +1,5 @@
++++
+Title = "Thomas Ottenhus"
+Subtitle = "IT-Dienstleistungen"
++++
 
-
-# Hello World!
-
-Welcome to my Hugo-Page!

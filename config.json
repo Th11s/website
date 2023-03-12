@@ -1,6 +1,13 @@
 {
-   "baseURL": "http://example.org/",
-   "languageCode": "en-us",
-   "title": "My New Hugo Site"
+   "baseURL": "https://th11s.de/",
+   "languageCode": "de-de",
+   "title": "Th11s",
    
+   "markup": {
+      "goldmark": {
+        "renderer": {
+          "unsafe": true
+        }
+      }
+    }
 }
