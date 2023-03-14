@@ -1,7 +1,21 @@
+html, body {
+    min-height: 100vh;
+}
+
 body {
-    background-color: #eee;
+    margin: 0;
+    background: #eee url('/assets/background-pattern.jpg') no-repeat;
+    background-size: cover;
+    background-position: bottom right;
 }
 
 .container {
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.background-accredit {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 1rem;
 }
