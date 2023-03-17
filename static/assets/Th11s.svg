@@ -23,7 +23,6 @@
 
   </defs>
 
-  <rect width="100%" height="100%" fill="white" />
   <g>
     <use href="#single" fill="#1B1658" />
     <use href="#double" fill="#191970" />

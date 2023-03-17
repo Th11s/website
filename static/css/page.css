@@ -1,12 +1,21 @@
+:root {
+    --bg-image-url: url('/assets/background-pattern-dark.jpg')
+}
+
 html, body {
     min-height: 100vh;
 }
 
 body {
     margin: 0;
-    background: #eee url('/assets/background-pattern.jpg') no-repeat;
+    position: relative;
+
+    background: #eee var(--bg-image-url) no-repeat;
     background-size: cover;
-    background-position: bottom right;
+    background-position: top right;
+
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
 }
 
 .container {

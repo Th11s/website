@@ -1,7 +1,7 @@
 {{ define "main" }}
   <main aria-role="main" class="p-4">
-    <header class="homepage-header">
-      <h1>{{.Title}}</h1>
+    <header class="homepage-header mb-2">
+      <h1 class="mb-0">{{.Title}}</h1>
       {{ with .Params.subtitle }}
       <span class="subtitle">{{.}}</span>
       {{ end }}
