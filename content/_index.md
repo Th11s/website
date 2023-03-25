@@ -5,6 +5,8 @@ Subtitle = "IT-Produkte & -Dienstleistungen"
 
 ## Produkte
 
+{{< product-list >}}
+
 1. [Tolle Serversoftware](/products/acme-adcs-server/)  
 Diese Software kann tolle Server-Dinge
 

@@ -1,5 +1,11 @@
 :root {
-    --bg-image-url: url('/assets/background-pattern-dark.jpg')
+    --bg-image-url: url('/assets/background-pattern.jpg');
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-image-url: url('/assets/background-pattern-dark.jpg');
+    }
 }
 
 html, body {
