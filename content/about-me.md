@@ -13,7 +13,7 @@ Neben meinem "Day-Job" bin ich seit 2011 nebenberuflich selbstständig und verka
 Durch meine Erfahrungen ist zudem die Idee entstanden, auch privat, kleine Produkte als quelloffene (aber nicht zwingend kostenfreie) Software zur Verfügung zu stellen.  
 So sind [ACME-PS](/products/acme-ps/) und der [ACME-ADCS-Server](/products/acme-adcs-server/) entstanden.
 
-###  Expertise?
+
 
 **Experte**
 - C#
