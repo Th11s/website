@@ -1,9 +1,23 @@
-{{ range .Site.Pages }}
-    {{ .Title }}
-{{ end }}
+<div class="row row-cols-2 row-cols-xl-3">
+    {{ range where site.RegularPages "Section" "products" }}
+    <div class="col">
+        <div class="card">
+            <div class="card-header h5">{{ .Title }}</div>
+            <div class="card-body">
+                <div class="card-text">{{ .Summary }}</div>
+                <div class="text-end">
+                    <a href="{{ .RelPermalink }}" class="btn btn-primary">Zum Produkt</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>
 
+<div>
 1. [Tolle Serversoftware](/products/acme-adcs-server/)  
 Diese Software kann tolle Server-Dinge
 
 1. [ACME Let's Encrypt Client](http://www.google.com/)  
 Dieses Tool redet Geheimsprache
+</div>

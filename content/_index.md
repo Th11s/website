@@ -1,5 +1,5 @@
 +++
-Title = "Softwareschmiede Th||s"
+Title = "Th||s"
 Subtitle = "IT-Produkte & -Dienstleistungen"
 +++
 
@@ -28,4 +28,4 @@ Folgendes wird angeboten:
 
 Sie haben eine Frage zu einer Software oder möchten eine IT-Dienstleistung anfragen, dann kontaktieren Sie Thomas von th||s doch einfach per Mail: **helloThomas@th11s.de**
 
-Sie wollen mehr über th||s erfahren, dann [hier entlang](/about-me/).
+Sie wollen mehr über th||s erfahren, dann [hier entlang](/about/).

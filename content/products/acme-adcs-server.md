@@ -1,6 +1,6 @@
 +++
-Title = "ACME-ADCS-Server"
-Subtitle = "Automatisch Zertifikate erstellen"
+title = "ACME-ADCS-Server"
+subtitle = "Automatisch Zertifikate erstellen"
 +++
 
 ## Was ist das? 

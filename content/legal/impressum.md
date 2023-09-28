@@ -12,7 +12,7 @@ Am Schäfersberg 1b<br />
 
 ### Kontakt
 <address>
-Telefon: <a href="tel:+491758777167">+491758777167</a><br />
+Telefon: <a href="tel:+491758777167">+49 175 8777167</a><br />
 E-Mail: <a href="mailto:th11s@outlook.de">th11s@outlook.de</a>
 </address>
 
