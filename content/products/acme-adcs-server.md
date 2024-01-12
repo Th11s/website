@@ -1,6 +1,7 @@
 +++
 title = "ACME-ADCS-Server"
 subtitle = "Automatisch Zertifikate erstellen"
+summary = "ACME (RFC 8555) kompatibler Server zur Nutzung mit ADCS"
 +++
 
 ## Was ist das?
