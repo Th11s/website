@@ -9,12 +9,7 @@ Subtitle = "IT-Produkte & -Dienstleistungen"
 
 ## Dienstleistungen
 
-**Sie brauchen eine Software?** *Th||s kann das!!!*  
-Folgendes wird angeboten:
-
-- Moderne Software schreiben
-- sensationelle Tools entwickeln
-- Beratung
+Sie brauchen Unterstützung in Ihrer Softwareentwicklung? Ich stehe nebenberuflich, als selbstständig Software-Entickler für Projekte in denen ich Expertise einbringen kann zur Verfügung. Sprechen Sie mich gerne an.
 
 ## Fragen und Kontakt
 
