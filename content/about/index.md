@@ -1,6 +1,4 @@
-
-
-## th||s [sprich: *this* [thĭs]]
+# th||s [sprich: *this* [thĭs]]
 
 Hallo! Ich bin Thomas!
 
@@ -13,16 +11,14 @@ Neben meinem "Day-Job" bin ich seit 2011 nebenberuflich selbstständig und verka
 Durch meine Erfahrungen ist zudem die Idee entstanden, auch privat, kleine Produkte als quelloffene (aber nicht zwingend kostenfreie) Software zur Verfügung zu stellen.  
 So sind zum Beispiel [ACME-PS](/products/acme-ps/) und der [ACME-ADCS-Server](/products/acme-adcs-server/) entstanden.
 
+## Was kann ich bieten?
 
-### Was kann ich bieten?
-
-Ich würde mich selbst als _Experte_ im Thema .net bezeichnen - insbesondere in C#, ASP.net Core, Blazor, Razor und Entity Framework sowie der PowerShell.  
+Ich würde mich selbst als *Experte* im Thema .net bezeichnen - insbesondere in C#, ASP.net Core, Blazor, Razor und Entity Framework sowie der PowerShell.  
 Des weiteren verfüge ich über tiefergehendes Wissen im Umgang mit WPF, WinForms, MAUI, Xamarin, HTML, (S)CSS, TypeScropt, Angular, React, JavaScript und SQL.
 Dazu kommt Wissen im Betrieb von IIS (als Applikations- und Proxyserver), Apache WebServer, Nginx WebServer, MS SQL Server, AD FS (als primärer Authentisierungserver und Federation Gateway), Shibboleth (als Federation Gateway), OpenId-Connect (als Protokollserver auf Basis von [IdentityServer](https://github.com/Duende/) und [OpenIddict](https://github.com/OpenIddict)) sowie MS Azure.  
 Dazu kommt noch erfahrung mit HUGO (diese Webseite), C++, Java, GO, YARP, Caddy, WordPress, Moodle, PHP, SharePoint, Jetty, Tomcat, uvm.
 
-
-### Was ist mit dem Namen?
+## Was ist mit dem Namen?
 
 th||s ist eine Stilisierung von th11s, die an das in vielen Programmiersprachen verwendete ODER erinnern soll.
 th11s selbst ist ein [Numeronym](https://de.wikipedia.org/wiki/Numeronym) für "Thomas Ottenhus" (das Leerzeichen wurde nicht gezählt).
