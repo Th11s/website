@@ -9,7 +9,7 @@ Subtitle = "IT-Produkte & -Dienstleistungen"
 
 ## Dienstleistungen
 
-Sie brauchen Unterstützung in Ihrer Softwareentwicklung? Ich stehe nebenberuflich, als selbstständig Software-Entickler für Projekte in denen ich Expertise einbringen kann zur Verfügung. Sprechen Sie mich gerne an.
+Sie brauchen Unterstützung in Ihrer Softwareentwicklung? Ich stehe nebenberuflich, als selbstständiger Software-Entickler für Projekte in denen ich Expertise einbringen kann zur Verfügung. Sprechen Sie mich gerne an.
 
 ## Fragen und Kontakt
 
