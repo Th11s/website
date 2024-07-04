@@ -3,7 +3,7 @@ Title = "Th||s"
 Subtitle = "IT-Produkte & -Dienstleistungen"
 +++
 
-## th||s [sprich: *this* [thĭs]]
+# th||s [sprich: *this* [thĭs]]
 
 Hallo! Ich bin Thomas!
 
@@ -17,7 +17,7 @@ Durch meine Erfahrungen ist zudem die Idee entstanden, auch privat, kleine Produ
 So sind zum Beispiel [ACME-PS](/products/acme-ps/) und der [ACME-ADCS-Server](/products/acme-adcs-server/) entstanden.
 
 
-### Was kann ich bieten?
+## Was kann ich bieten?
 
 Ich würde mich selbst als _Experte_ im Thema .net bezeichnen - insbesondere in C#, ASP.net Core, Blazor, Razor und Entity Framework sowie der PowerShell.  
 Des Weiteren verfüge ich über tiefergehendes Wissen im Umgang mit WPF, WinForms, MAUI, Xamarin, HTML, (S)CSS, TypeScropt, Angular, React, JavaScript und SQL.
@@ -26,11 +26,11 @@ Erfahrung mit HUGO (diese Webseite), C++, Java, GO, YARP, Caddy, WordPress, Mood
 Bei meinem "Day-Job" bin ich zudem verantwortlich für die Anmelde- und Authentifizierungsinfrastruktur, welche aktuell auf FIDO2 Passkeys umgestellt wurde.
 
 
-### Was ist mit dem Namen?
+## Was ist mit dem Namen?
 
 th||s ist eine Stilisierung von th11s, die an das in vielen Programmiersprachen verwendete ODER erinnern soll.
 th11s selbst ist ein [Numeronym](https://de.wikipedia.org/wiki/Numeronym) für "Thomas Ottenhus" (das Leerzeichen wurde nicht gezählt).
 
-## Produkte
+# Produkte
 
 {{< product-list >}}

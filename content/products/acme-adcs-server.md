@@ -6,6 +6,8 @@ summary = "Ein RFC 8555 kompatibler Server mit ADCS als Backend."
 
 Der ACME-ADCS-Server ermöglicht es Ihnen Zeritifikate mit einem ACME (RFC 8555) kompatiblen Klienten Zertifikate Ihrer Active-Directory Certificate Authority auszustellen.
 
+Folgen Sie einfach der Anleitung auf [GitHub](https://github.com/glatzert/ACME-Server-ADCS) zur Installation.  
+Private Nutzung (aka. ohne Gewinnerzielungsabsicht) und Erprobung des Produkts sind kostenfrei - Details dazu finden Sie in den [Lizenzbedingungen](https://github.com/glatzert/ACME-Server-ADCS/blob/main/LICENSE)
 
 ## Kosten?
 
