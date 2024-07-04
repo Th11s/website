@@ -3,7 +3,7 @@ Title = "Th||s"
 Subtitle = "IT-Produkte & -Dienstleistungen"
 +++
 
-Hallo! Ich bin Thomas!
+**Hallo! Ich bin Thomas!**
 
 Ich bin seit 2010 Mitarbeiter des Zentrums für Datenverarbeitung an der Johannes Gutenberg-Universität Mainz.
 In 2018 wurde ich dort als Leiter der Softwareentwicklung eingesetzt und betreue mit meinem Team diverse Applikationen rund um das Studium und die Verwaltung der Universität.
