@@ -1,6 +1,6 @@
 +++
 Title = "Th||s"
-Subtitle = "[sprich: *this* [thĭs]]<br />IT-Produkte & -Dienstleistungen"
+Subtitle = "IT-Produkte & -Dienstleistungen"
 +++
 
 Hallo! Ich bin Thomas!
@@ -26,7 +26,7 @@ Bei meinem "Day-Job" bin ich zudem verantwortlich für die Anmelde- und Authenti
 
 ## Was ist mit dem Namen?
 
-th||s ist eine Stilisierung von th11s, die an das in vielen Programmiersprachen verwendete ODER erinnern soll.
+th||s [sprich: *this* [thĭs]] ist eine Stilisierung von th11s, die an das in vielen Programmiersprachen verwendete ODER erinnern soll.
 th11s selbst ist ein [Numeronym](https://de.wikipedia.org/wiki/Numeronym) für "Thomas Ottenhus" (das Leerzeichen wurde nicht gezählt).
 
 # Produkte
