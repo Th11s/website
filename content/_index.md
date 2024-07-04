@@ -1,9 +1,7 @@
 +++
 Title = "Th||s"
-Subtitle = "IT-Produkte & -Dienstleistungen"
+Subtitle = "[sprich: *this* [thĭs]]<br />IT-Produkte & -Dienstleistungen"
 +++
-
-# th||s [sprich: *this* [thĭs]]
 
 Hallo! Ich bin Thomas!
 
