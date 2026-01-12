@@ -32,7 +32,7 @@ So starten Sie:
 1.	Passen Sie die Konfiguration an Ihre bestehende ADCS Umgebung an.
 1.	Starten Sie den Web-Server – fertig.
 
-Die Dokumentation auf GitHub enthält alle Details zu Setup, Konfiguration, Systemvoraussetzungen und Best Practices. Sie können ACME ADCS sofort testen, und die Lizenz 
+Die Dokumentation auf GitHub enthält alle Details zu Setup, Konfiguration, Systemvoraussetzungen und Best Practices. Sie können ACME ADCS sofort testen, und die Lizenz erst erwerben, wenn sie es produktiv einsetzen möchten.
 
 # Lizenzbedingungen
 

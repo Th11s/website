@@ -2,6 +2,7 @@
    "baseURL": "https://th11s.de/",
    "languageCode": "de-de",
    "title": "Th11s",
+   "defaultContentLanguage": "de",
    
    "markup": {
       "goldmark": {
@@ -9,5 +10,10 @@
           "unsafe": true
         }
       }
-    }
+    },
+    "languages": 
+     { 
+      "de": { "weight": 1, "languageName": "Deutsch" }, 
+      "en": { "weight": 2, "languageName": "English" } 
+      } 
 }
