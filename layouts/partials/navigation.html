@@ -1,4 +1,5 @@
 
+
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container">
         <a class="navbar-brand" href="/">
@@ -24,6 +25,12 @@
                 <li class="nav-item justify-self-end">
                     <a class="nav-link" href="/legal/">Impressum / Datenschutz</a>
                 </li>
+                {{ range .Translations }}
+                <li class="nav-item justify-self-end">
+                    <a class="nav-link" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
+                </li>
+                {{ end }}
+                
             </ul>
         </div>
     </div>

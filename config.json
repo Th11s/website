@@ -1,19 +1,24 @@
 {
-   "baseURL": "https://th11s.de/",
-   "languageCode": "de-de",
-   "title": "Th11s",
-   "defaultContentLanguage": "de",
-   
-   "markup": {
-      "goldmark": {
-        "renderer": {
-          "unsafe": true
-        }
+  "baseURL": "https://th11s.de/",
+  "languageCode": "de-de",
+  "title": "Th11s",
+  "defaultContentLanguage": "de",
+  "markup": {
+    "goldmark": {
+      "renderer": {
+        "unsafe": true
       }
+    }
+  },
+  "languages": {
+    "de": {
+      "weight": 1,
+      "languageName": "Deutsch"
     },
-    "languages": 
-     { 
-      "de": { "weight": 1, "languageName": "Deutsch" }, 
-      "en": { "weight": 2, "languageName": "English" } 
-      } 
+    "en": {
+      "weight": 2,
+      "languageName": "English"
+    }
+  },
+  "defaultContentLanguageInSubdir": false
 }
