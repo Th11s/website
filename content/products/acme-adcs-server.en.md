@@ -1,7 +1,7 @@
 +++
-title = "ACME ADCS Server: Automatisierung für Ihre Zertifikate"
+title = "ACME ADCS Server: Automation for your certificates"
 subtitle = ""
-summary = "Ein RFC 8555 kompatibler Server mit ADCS als Backend."
+summary = "An RFC 8555-compliant server with ADCS as the backend."
 +++
 
 
@@ -61,6 +61,6 @@ For a quote or questions about licensing or maintenance, please contact me direc
 
 
 # Voluntary support
-If ACME ADCS saves you time and prevents gray hair, feel free to buy me a coffee. Not a must—but caffeine keeps the wheels turning: [Thomas auf Paypal](https://paypal.me/TGlatzer)
+If ACME ADCS saves you time and prevents gray hair, feel free to buy me a coffee. Not a must—but caffeine keeps the wheels turning: [Thomas on Paypal](https://paypal.me/TGlatzer)
 
 
