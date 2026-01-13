@@ -2,17 +2,18 @@
 title = "ACME ADCS Server: Automation for your certificates"
 subtitle = ""
 summary = "An RFC 8555-compliant server with ADCS as the backend."
+description = "Automated certificate issuance for your ADCS environment. Secure, reliable, and without manual effort. Easy implementation. Test the product free of charge."
 +++
 
 
 Automated certificate issuance for your ADCS environment. Secure, reliable, and without manual effort. Easy implementation. Test the product free of charge on [GitHub](https://github.com/glatzert/ACME-Server-ADCS).. Purchase a one-time license for €1,500 plus VAT now by emailing [thomas@th11s.de](mailto:thomas@th11s.de). Already 170 stars on GitHub and many satisfied customers worldwide.   
   
-# Manual certificates? Not anymore.
+## Manual certificates? Not anymore.
 Certificates expire, get overlooked, or are issued incorrectly — and that's when it gets expensive. Manual processes take time, generate errors, and increase security risks.  
 ACME ADCS Server fully automates issuance and renewal via the ACME protocol. It connects the Microsoft Active Directory Certificate Authority with the Automatic Certificate Management Environment (known from Let's Encrypt) and allows you to issue certificates from your Active Directory Certificate Authority with an ACME (RFC 8555) compatible client.  
 This way, you maintain control and security at all times without any additional effort.
 
-# Why ACME-ADCS Server is the right choice
+## Why ACME-ADCS Server is the right choice
 - **Free trial**  
 ACME ADCS can be fully tested before a decision is made. No risks, no obligations.
 - **Open source code**  
@@ -24,7 +25,7 @@ Thanks to its open code, the solution can be expanded, integrated, or modified t
 - **Moderate licensing costs**   
 At a one-time fee of €1,500 per corporate group, ACME ADCS offers excellent value for money, especially when compared to complex solutions. No extra costs per instance, user, server, certificate, or similar. 
 
-# Installation
+## Installation
 The installation of ACME ADCS is deliberately kept simple. Everything you need can be found directly on GitHub.  
 To get started:  
 1.    Open the official ACME ADCS GitHub repository at [GitHub](https://github.com/glatzert/ACME-Server-ADCS).
@@ -36,7 +37,7 @@ The documentation on GitHub contains all the details on setup, configuration, sy
 
 
 
-# License Terms
+## License Terms
 
 ### Free Use
 You may use ACME ADCS free of charge if you belong to one of the following groups:
@@ -56,11 +57,11 @@ If you do not belong or no longer belong to one of the above groups, a paid lice
 
 [Full license terms on GitHub](https://github.com/glatzert/ACME-Server-ADCS/blob/main/LICENSE)
 
-# Purchase license
+## Purchase license
 For a quote or questions about licensing or maintenance, please contact me directly by email at: [thomas@th11s.de](mailto:thomas@th11s.de)
 
 
-# Voluntary support
+## Voluntary support
 If ACME ADCS saves you time and prevents gray hair, feel free to buy me a coffee. Not a must—but caffeine keeps the wheels turning: [Thomas on Paypal](https://paypal.me/TGlatzer)
 
 

@@ -1,6 +1,9 @@
 +++
-Title = "Th||s"
-Subtitle = "IT-Products & -Services"
+Title = "Th||s - Thomas Ottenhus - .NET expert, authentication & open source solutions"
+
+Subtitle = ".NET development, authentication infrastructure, open-source tools such as ACME-ADCS and ACME-PS. IT expertise in the Rhine-Main area for companies, public authorities and universities"
+
+description = ".NET development, authentication infrastructure, open-source tools such as ACME-ADCS and ACME-PS. IT expertise in the Rhine-Main area for companies, public authorities and universities"
 +++
 
 **Hello! My name is Thomas!**
@@ -22,15 +25,6 @@ I also have in-depth knowledge of WPF, WinForms, MAUI, Xamarin, HTML, (S)CSS, Ty
 In addition, I have knowledge of operating IIS (as an application and proxy server), Apache WebServer, Nginx WebServer, MS SQL Server, AD FS (as a primary authentication server and federation gateway), Shibboleth (as a federation gateway), OpenId-Connect (as a protocol server based on [IdentityServer](https://github.com/Duende/) and [OpenIddict](https://github.com/OpenIddict)), and MS Azure.  
 I have also gained experience with HUGO (this website), C++, Java, GO, YARP, Caddy, WordPress, Moodle, PHP, SharePoint, Jetty, Tomcat, and much more.  
 In my day job, I am also responsible for the login and authentication infrastructure, which has recently been converted to FIDO2 passkeys.
-
-
-## Was kann ich bieten?
-
-Ich würde mich selbst als _Experte_ im Thema .net bezeichnen - insbesondere in C#, ASP.net Core, Blazor, Razor und Entity Framework sowie der PowerShell.  
-Des Weiteren verfüge ich über tiefergehendes Wissen im Umgang mit WPF, WinForms, MAUI, Xamarin, HTML, (S)CSS, TypeScropt, Angular, React, JavaScript und SQL.
-Dazu kommt Wissen im Betrieb von IIS (als Applikations- und Proxyserver), Apache WebServer, Nginx WebServer, MS SQL Server, AD FS (als primärer Authentisierungserver und Federation Gateway), Shibboleth (als Federation Gateway), OpenId-Connect (als Protokollserver auf Basis von [IdentityServer](https://github.com/Duende/) und [OpenIddict](https://github.com/OpenIddict)) sowie MS Azure.  
-Erfahrung mit HUGO (diese Webseite), C++, Java, GO, YARP, Caddy, WordPress, Moodle, PHP, SharePoint, Jetty, Tomcat, uvm. konnte ich ebenfalls sammeln.  
-Bei meinem "Day-Job" bin ich zudem verantwortlich für die Anmelde- und Authentifizierungsinfrastruktur, welche aktuell auf FIDO2 Passkeys umgestellt wurde.
 
 
 ## What about the name?

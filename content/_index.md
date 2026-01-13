@@ -1,7 +1,10 @@
 +++
-Title = "Th||s"
-Subtitle = "IT-Produkte & -Dienstleistungen"
-+++
+Title = "Th||s - Thomas Ottenhus - .NET-Experte, Authentifizierung & Open-Source-Lösungen"
+
+Subtitle = ".NET-Entwicklung, Authentifizierungsinfrastruktur, Open-Source-Tools wie ACME-ADCS und ACME-PS. IT-Expertise im Rhein-Main-Gebiet für Unternehmen, Behörden und Hochschulen"
+
+Description = ".NET-Entwicklung, Authentifizierungsinfrastruktur, Open-Source-Tools wie ACME-ADCS und ACME-PS. IT-Expertise im Rhein-Main-Gebiet für Unternehmen, Behörden und Hochschulen"
++++  
 
 **Hallo! Ich bin Thomas!**
 
