@@ -10,27 +10,32 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            {{- $products := where .Site.RegularPages "Section" "products" -}}
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <!-- <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">
-                        Produkte
-                    </a>
-                    <ul class="dropdown-menu">
-                        {{ range .Site.RegularPages }}
-                        <li><a class="dropdown-item" href="{{ .Render "url"}}">{{ .Render "nav-name"}}</a></li>
+                {{ if $products }}
+                <li class="nav-item">
+                    <button class="nav-link dropdown-toggle"
+                            popovertarget="products-popover"
+                            popovertargetaction="toggle">
+                        {{ if eq .Site.Language.Lang "en" }}Products{{ else }}Produkte{{ end }}
+                    </button>
+                    <ul id="products-popover" popover>
+                        {{ range $products }}
+                        <li><a class="dropdown-item" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                         {{ end }}
                     </ul>
-                </li> -->
-                <li class="nav-item justify-self-end">
-                    <a class="nav-link" href="/legal/">Impressum / Datenschutz</a>
-                </li>
-                {{ range .Translations }}
-                <li class="nav-item justify-self-end">
-                    <a class="nav-link" href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a>
                 </li>
                 {{ end }}
-                
+            </ul>
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                {{ range .Translations }}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ .RelPermalink }}">{{ .Language.Label }}</a>
+                </li>
+                {{ end }}
+                <li class="nav-item">
+                    <a class="nav-link" href="/legal/">Impressum / Datenschutz</a>
+                </li>
             </ul>
         </div>
     </div>
