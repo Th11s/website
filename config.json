@@ -1,6 +1,6 @@
 {
   "baseURL": "https://th11s.de/",
-  "languageCode": "de-de",
+  "locale": "de-de",
   "title": "Th11s",
   "defaultContentLanguage": "de",
   "markup": {
@@ -13,11 +13,11 @@
   "languages": {
     "de": {
       "weight": 1,
-      "languageName": "Deutsch"
+      "label": "Deutsch"
     },
     "en": {
       "weight": 2,
-      "languageName": "English"
+      "label": "English"
     }
   },
   "defaultContentLanguageInSubdir": false
