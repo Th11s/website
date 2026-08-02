@@ -1,0 +1,14 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/product.css">
+<div class="row">
+    <div class="col">
+    {{- partial "navigation.html" . -}}
+    </div>
+</div>
+
+  <main aria-role="main" class="p-4">
+    <div class="homepage-content">
+      {{.Content}}
+    </div>
+  </main>
+{{ end }}

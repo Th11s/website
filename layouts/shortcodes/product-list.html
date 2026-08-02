@@ -1,13 +1,16 @@
-<div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3">
+<div class="row row-cols-1 row-cols-lg-2 g-4 my-2">
     {{ range where site.RegularPages "Section" "products" }}
     <div class="col">
-        <div class="card">
-            <div class="card-header h5">{{ .Title }}</div>
-            <div class="card-body">
-                <div class="card-text">{{ .Summary }}</div>
-                <div class="text-end">
-                    <a href="{{ .RelPermalink }}" class="btn btn-primary">Zum Produkt</a>
-                </div>
+        <div class="product-card">
+            <div class="product-card-header">
+                {{ with .Params.icon }}<span class="product-icon">{{ . }}</span>{{ end }}
+                <h3>{{ .Title }}</h3>
+            </div>
+            <div class="product-card-body">
+                <p>{{ .Summary }}</p>
+            </div>
+            <div class="product-card-footer">
+                <a href="{{ .RelPermalink }}" class="btn btn-primary">Zum Produkt</a>
             </div>
         </div>
     </div>

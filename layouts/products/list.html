@@ -1,0 +1,20 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/product.css">
+<div class="row">
+    <div class="col">
+    {{- partial "navigation.html" . -}}
+    </div>
+</div>
+
+  <main aria-role="main" class="p-4">
+    <header class="homepage-header mb-2">
+      <h1 class="mb-0">{{.Title}}</h1>
+      {{ with .Params.subtitle }}
+      <span class="subtitle">{{.}}</span>
+      {{ end }}
+    </header>
+    <div class="homepage-content">
+      {{.Content}}
+    </div>
+  </main>
+{{ end }}
