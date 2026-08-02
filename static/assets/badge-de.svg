@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+																		
+																		<svg xmlns="http://www.w3.org/2000/svg" width="238" height="238" viewBox="0 0 238 238" role="img" aria-labelledby="svgTitle-de svgDesc-de">
+																		
+																		<title id="svgTitle-de">EU Country Badge - Germany</title>
+																		
+																		<desc id="svgDesc-de">A professional-grade circular European Union badge featuring 12 gold stars and the official flag of Germany in the center. Optimized for origin labeling and European identity branding.</desc>
+																		
+																		<metadata>
+																		
+																		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+																		
+																		<rdf:Description rdf:about="">
+																		
+																		<dc:title>EU Country Badge - Germany</dc:title>
+																		
+																		<dc:description>A professional-grade circular European Union badge featuring 12 gold stars and the official flag of Germany in the center. Optimized for origin labeling and European identity branding.</dc:description>
+																		
+																		<dc:source>http://country-badges.eu/</dc:source>
+																		
+																		<dc:subject>
+																		
+																		<rdf:Bag>
+																		
+																		<rdf:li>EU</rdf:li>
+				   					<rdf:li>Badge</rdf:li>
+				   					<rdf:li>Germany</rdf:li>
+				   					<rdf:li>European Union</rdf:li>
+				   					<rdf:li>Flag</rdf:li>
+				   					<rdf:li>Origin</rdf:li>
+				   					<rdf:li>Icon</rdf:li>
+				   					<rdf:li>Identity</rdf:li>
+																		
+																		</rdf:Bag>
+																		
+																		</dc:subject>
+																		
+																		<dc:creator>Axel Wickman</dc:creator>
+																		
+																		</rdf:Description>
+																		
+																		</rdf:RDF>
+																		
+																		</metadata>
+																		
+																		<style>
+																		
+																		
+																		
+																		</style>								<defs>
+																		
+																		
+																	<radialGradient id="ringGlow" cx="40%" cy="35%" r="70%">
+																	<stop offset="0%" stop-color="rgba(255,255,255,0.0)"/>
+																	<stop offset="55%" stop-color="rgba(255,255,255,0.0)"/>
+																	<stop offset="100%" stop-color="rgba(255,255,255,0.35)"/>
+																	</radialGradient>
+
+																	<clipPath id="clipFlag">
+																	<circle cx="119" cy="119" r="70" />
+																	</clipPath>
+																		
+																		</defs>
+																		
+																		<g >
+																		<g class="">
+																		
+																		<!-- Outer white border -->												<circle cx="119" cy="119" r="118" fill="#ffffff"/>
+																		
+																		<!-- Blue disk -->
+																		<circle cx="119" cy="119" r="110" fill="#003399"/>
+																		
+																		<!-- Ring highlight (simple radial) -->
+																		<path d="
+																		M 119 119
+																		m 0 -107
+																		a 107 107 0 1 1 0 214
+																		a 107 107 0 1 1 0 -214
+																		m 0 5
+																		a 102 102 0 1 0 0 204
+																		a 102 102 0 1 0 0 -204
+																		"
+																		fill="url(#ringGlow)" fill-rule="evenodd"/>
+																		
+																		<!-- Stars -->
+																		<text x="119" y="29" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="164" y="41.05771365940052" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="196.94228634059948" y="74" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="209" y="119" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="196.94228634059948" y="164" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="164" y="196.94228634059948" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="119" y="209" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="74.00000000000003" y="196.94228634059948" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="41.05771365940052" y="164" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="29" y="119.00000000000001" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="41.05771365940052" y="74" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text><text x="73.99999999999996" y="41.05771365940055" text-anchor="middle" dominant-baseline="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="26" fill="#FFCC00">★</text>
+																		
+																		<!-- Flag circle border -->
+																		<g >
+																		<circle cx="119" cy="119" r="76" fill="#ffffff"/>
+																		</g>
+																		
+																		<!-- Flag background for zoom-out edges -->
+																		<circle cx="119" cy="119" r="70" fill="#ffffff"/>
+																		
+																		<!-- Flag image clipped -->
+																		<image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjYwMCIgdmlld0JveD0iMCAwIDUgMyI+PHBhdGggZD0iTTAgMGg1djNIMHoiLz48cGF0aCBmaWxsPSIjRDAwIiBkPSJNMCAxaDV2MkgweiIvPjxwYXRoIGZpbGw9IiNGRkNFMDAiIGQ9Ik0wIDJoNXYxSDB6Ii8+PC9zdmc+" x="2.3333333333333286" y="49" width="233.33333333333334" height="140" preserveAspectRatio="none" clip-path="url(#clipFlag)"/>
+																		</g>
+																		</g>
+																		</svg>

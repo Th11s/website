@@ -1,0 +1,189 @@
+/* --- Hero ---------------------------------------------------------------- */
+.features-hero {
+  background: linear-gradient(135deg, #1e3a5f 0%, #2d6a9f 100%);
+  color: #fff;
+  padding: 3rem 2rem;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.features-hero h1 {
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+.features-hero .lead {
+  font-size: 1.1rem;
+  opacity: 0.92;
+  max-width: 680px;
+  line-height: 1.65;
+}
+
+/* --- Feature cards ------------------------------------------------------- */
+.feature-card {
+  background: #fff;
+  border: 1px solid #dce3ed;
+  border-radius: 0.5rem;
+  padding: 1.5rem 1.25rem;
+  height: 100%;
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
+}
+
+.feature-card:hover {
+  box-shadow: 0 6px 20px rgba(45, 106, 159, 0.15);
+  transform: translateY(-2px);
+}
+
+.feature-card .feature-icon {
+  font-size: 2rem;
+  margin-bottom: 0.6rem;
+  display: block;
+  line-height: 1;
+}
+
+.feature-card h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+  color: #1e3a5f;
+}
+
+.feature-card p {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* --- Section headings ---------------------------------------------------- */
+.features-section-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  padding-left: 0.75rem;
+  border-left: 4px solid #2d6a9f;
+  margin-bottom: 1rem;
+  color: #1e3a5f;
+}
+
+/* --- Badge list (challenge types, identifiers) --------------------------- */
+.badge-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.5rem;
+  margin: 0.75rem 0 1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.badge-list li {
+  background: #e4edf8;
+  color: #1e3a5f;
+  border-radius: 0.375rem;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.875rem;
+  font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
+}
+
+.badge-list li.experimental {
+  background: #fff3cd;
+  color: #664d03;
+}
+
+.badge-list li.experimental::after {
+  content: " ⚗";
+}
+
+/* --- Pricing table ------------------------------------------------------- */
+.pricing-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.75rem 0 1rem;
+  font-size: 0.925rem;
+}
+
+.pricing-table th,
+.pricing-table td {
+  padding: 0.6rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.pricing-table thead th {
+  background: #1e3a5f;
+  color: #fff;
+  font-weight: 600;
+}
+
+.pricing-table tbody tr:nth-child(even) {
+  background: #f4f7fb;
+}
+
+/* --- CTA section --------------------------------------------------------- */
+.features-cta {
+  background: linear-gradient(135deg, #1e3a5f 0%, #2d6a9f 100%);
+  color: #fff;
+  padding: 2.25rem 2rem;
+  border-radius: 0.5rem;
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+.features-cta h2 {
+  font-size: 1.45rem;
+  font-weight: 700;
+  margin-bottom: 0.6rem;
+}
+
+.features-cta p {
+  opacity: 0.9;
+  margin-bottom: 1.25rem;
+}
+
+.features-cta .btn {
+  margin: 0.25rem;
+}
+
+/* --- Dark mode ----------------------------------------------------------- */
+@media (prefers-color-scheme: dark) {
+  .feature-card {
+    background: #1c2233;
+    border-color: #2e3d57;
+    color: #dde3ec;
+  }
+
+  .feature-card h3 {
+    color: #7ab3e8;
+  }
+
+  .feature-card p {
+    color: #a0aec0;
+  }
+
+  .features-section-title {
+    color: #7ab3e8;
+  }
+
+  .badge-list li {
+    background: #1e3a5f;
+    color: #9ec5fe;
+  }
+
+  .badge-list li.experimental {
+    background: #3d2e00;
+    color: #ffd970;
+  }
+
+  .pricing-table thead th {
+    background: #2d6a9f;
+  }
+
+  .pricing-table tbody tr:nth-child(even) {
+    background: #161e2d;
+  }
+
+  .pricing-table td {
+    color: #cdd4de;
+    border-color: #2e3d57;
+  }
+}
