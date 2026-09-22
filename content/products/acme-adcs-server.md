@@ -16,7 +16,7 @@ weight = 1
     – und beziehen Sie Zertifikate direkt aus Ihrer eigenen PKI.
   </p>
   <div class="mt-3 d-flex flex-wrap gap-2">
-    <a href="https://glatzert.github.io/ACME-Server-ADCS/docs-v3.0/prereqs.html"
+    <a href="https://glatzert.github.io/ACME-Server-ADCS/index.html"
        class="btn btn-light">Quickstart-Anleitung</a>
     <a href="https://github.com/glatzert/ACME-Server-ADCS"
        class="btn btn-outline-light">GitHub</a>
@@ -211,7 +211,7 @@ zentralen Installation.
 ## Weitere Funktionen
 
 - **CAA-Validierung** – Prüfung von Certification Authority Authorization Records und Method Binding gemäß [RFC 8657](https://datatracker.ietf.org/doc/rfc8657/).
-- **ExternalAccountBinding (EAB)** – Accounts an Unternehmensrichtlinien binden; [Dokumentation](https://glatzert.github.io/ACME-Server-ADCS/docs/eab.html).
+- **ExternalAccountBinding (EAB)** – Accounts an Unternehmensrichtlinien binden; [Dokumentation](https://glatzert.github.io/ACME-Server-ADCS/docs/topics-external-account-binding.html).
 - **ADCS Auto-Enrollment** – Nutzt die vorhandene Auto-Enrollment-Konfiguration des ADCS-Templates.
 - **Modernes .NET** – Basiert auf ASP.NET Core für eine wartbare und erweiterbare Architektur.
 - **SBOM** – Enthält eine Software Bill of Materials (CycloneDX) für Transparenz und Compliance.
@@ -232,7 +232,7 @@ Die Dokumentation enthält alle Details zu Setup, Konfiguration, Systemvorausset
 Best Practices. Sie können ACME ADCS sofort testen und eine Lizenz erst erwerben, wenn Sie
 es produktiv einsetzen möchten.
 
-<a href="https://glatzert.github.io/ACME-Server-ADCS/docs-v3.0/prereqs.html" class="btn btn-primary">Zur Dokumentation (V3.0)</a>
+<a href="https://glatzert.github.io/ACME-Server-ADCS/index.html" class="btn btn-primary">Zur Dokumentation (V3.1)</a>
 
 ---
 
@@ -276,8 +276,8 @@ Zum Erhalt eines Angebots wenden Sie sich an [thomas@th11s.de](mailto:thomas@th1
 <div class="features-cta">
   <h2>Jetzt loslegen</h2>
   <p>Verbinden Sie Ihren ADCS in wenigen Schritten mit dem ACME-Protokoll.</p>
-  <a href="https://glatzert.github.io/ACME-Server-ADCS/docs-v3.0/prereqs.html"
-     class="btn btn-light">Dokumentation (V3.0)</a>
+  <a href="https://glatzert.github.io/ACME-Server-ADCS/index.html"
+     class="btn btn-light">Dokumentation (V3.1)</a>
   <a href="https://github.com/glatzert/ACME-Server-ADCS"
      class="btn btn-outline-light">GitHub-Repository</a>
   <a href="mailto:thomas@th11s.de"

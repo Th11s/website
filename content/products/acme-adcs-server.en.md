@@ -16,7 +16,7 @@ weight = 1
     — and issue certificates directly from your own PKI.
   </p>
   <div class="mt-3 d-flex flex-wrap gap-2">
-    <a href="https://glatzert.github.io/ACME-Server-ADCS/docs-v3.0/prereqs.html"
+    <a href="https://glatzert.github.io/ACME-Server-ADCS/index.html"
        class="btn btn-light">Quickstart Guide</a>
     <a href="https://github.com/glatzert/ACME-Server-ADCS"
        class="btn btn-outline-light">GitHub</a>
@@ -206,7 +206,7 @@ client certificates — all from a single installation.
 ## Additional Features
 
 - **CAA Validation** — Checks Certification Authority Authorization records and method binding per [RFC 8657](https://datatracker.ietf.org/doc/rfc8657/).
-- **External Account Binding (EAB)** — Bind accounts to corporate policies; [documentation](https://glatzert.github.io/ACME-Server-ADCS/docs/eab.html).
+- **External Account Binding (EAB)** — Bind accounts to corporate policies; [documentation](https://glatzert.github.io/ACME-Server-ADCS/docs/topics-external-account-binding.html).
 - **ADCS Auto-Enrollment** — Leverages the existing auto-enrollment configuration of your ADCS template.
 - **Modern .NET** — Built on ASP.NET Core for a maintainable and extensible architecture.
 - **SBOM** — Includes a Software Bill of Materials (CycloneDX) for transparency and compliance.
@@ -225,7 +225,7 @@ Installation is deliberately kept simple. Everything you need is on GitHub.
 The documentation covers all details on setup, configuration, system requirements, and best practices.
 You can start testing ACME ADCS immediately and only purchase a licence when you go into production.
 
-<a href="https://glatzert.github.io/ACME-Server-ADCS/docs-v3.0/prereqs.html" class="btn btn-primary">Documentation (V3.0)</a>
+<a href="https://glatzert.github.io/ACME-Server-ADCS/index.html" class="btn btn-primary">Documentation (V3.1)</a>
 
 ---
 
@@ -268,8 +268,8 @@ To request a quote, contact [thomas@th11s.de](mailto:thomas@th11s.de).
 <div class="features-cta">
   <h2>Get Started</h2>
   <p>Connect your ADCS to the ACME protocol in just a few steps.</p>
-  <a href="https://glatzert.github.io/ACME-Server-ADCS/docs-v3.0/prereqs.html"
-     class="btn btn-light">Documentation (V3.0)</a>
+  <a href="https://glatzert.github.io/ACME-Server-ADCS/index.html"
+     class="btn btn-light">Documentation (V3.1)</a>
   <a href="https://github.com/glatzert/ACME-Server-ADCS"
      class="btn btn-outline-light">GitHub Repository</a>
   <a href="mailto:thomas@th11s.de"
