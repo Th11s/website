@@ -117,6 +117,7 @@
 
 .pricing-table tbody tr:nth-child(even) {
   background: #f4f7fb;
+  color:#161e2d;
 }
 
 /* --- CTA section --------------------------------------------------------- */
